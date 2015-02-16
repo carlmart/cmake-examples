@@ -1,0 +1,30 @@
+# CMake Examples
+==============
+
+### Thanks to Evan Bollig , link is found below. 
+Created github repository for source.
+
+
+1) CMake for C++ (CXX), Fortran, and Java
+	- Example: "count to 10" for each language
+
+2) Testing with CMake and CTest
+	- Example: Test cases and exit status for "count to 10"
+
+3) Multi-directory, multi-executable builds
+	- Example: Master Makefile for "count to 10" builds
+
+4) Building and Using Libraries: 
+	- Shared and Static Libraries (CXX)
+	- Modules (Fortran)
+	- Example: "hello world" wrapped into lib and mod
+	- Including 3rd party libraries
+
+5) Documenting code automatically
+	- Example: doxygen generated documentation for "hello world"
+
+6) Packaging Source and Binaries for Distribution (or homework submission)
+	- Example: CPack example for example 5 
+
+[cmake link](http://people.sc.fsu.edu/~efb06/)
+
